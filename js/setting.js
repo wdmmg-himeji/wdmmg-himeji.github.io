@@ -10,8 +10,8 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'matsue_budget_2013'; //OpenSpendingにupしたcsvファイルのidentifier
-OpenSpending.year = '2013'; //登録したcsvのyear
+OpenSpending.identifier = 'HimejiHyogo_2014budget'; //OpenSpendingにupしたcsvファイルのidentifier
+OpenSpending.year = '2014'; //登録したcsvのyear
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
