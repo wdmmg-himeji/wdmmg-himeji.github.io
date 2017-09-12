@@ -2,7 +2,9 @@
 
 ![eye_chatch](https://s3-ap-northeast-1.amazonaws.com/ysdytimages/wdmmg-himeji.png)
 
-wheredoesmymoney.orgの兵庫県姫路市版です。
+wheredoesmymoney.orgの兵庫県姫路市版です。こちらから閲覧することができます。
+
+* [http://himeji.spending.jp/](http://himeji.spending.jp/)
 
 Where Does My Money Go? 兵庫県姫路市版（2015年2月19日稼働）は、姫路市民が姫路市に納めている市税を対象として構築したものです。  
 自分の年間総収入をスライドで設定し、単身世帯か扶養一人世帯かを選択すると、給与所得者であるという前提で、姫路市に納めている市税年総額と8分野毎に一日当たり支払っている市税額が表示されます。  
